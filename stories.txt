@@ -1,0 +1,7 @@
+* Be able to create a new empty invoice with hardcoded values for, client, company and terms
+
+* Be able to add a line item to an invoice
+* Be able to create an invoice for a client in the system
+* Be able to specify the terms for an invoice
+* Be able to specify a default term for a client
+* Be able to add a VAT on a line item
